@@ -1,0 +1,31 @@
+{
+  "name": "electron-screenshots-issue",
+  "version": "1.0.0",
+  "description": "用于复现 electron-screenshots issue",
+  "main": "index.js",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashaofu/electron-screenshots-issue.git"
+  },
+  "keywords": [
+    "electron-screenshots",
+    "issue"
+  ],
+  "author": "nashaofu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nashaofu/electron-screenshots-issue/issues"
+  },
+  "homepage": "https://github.com/nashaofu/electron-screenshots-issue#readme",
+  "dependencies": {
+    "electron-screenshots": "^0.5.2"
+  },
+  "devDependencies": {
+    "electron": "^19.0.5"
+  }
+}
