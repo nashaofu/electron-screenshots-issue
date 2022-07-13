@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/nashaofu/electron-screenshots-issue#readme",
   "dependencies": {
-    "electron-screenshots": "^0.5.2"
+    "electron-screenshots": "^0.5.6"
   },
   "devDependencies": {
     "electron": "^19.0.5"
